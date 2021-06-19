@@ -1,0 +1,3 @@
+someFunction({ 
+    'someObject' : 'someObjectValue' 
+});
