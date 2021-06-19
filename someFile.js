@@ -1,3 +1,3 @@
 someFunction({ 
-    'someObject' : 'someObjectValue' 
+    "someObject" : "someObjectValue" 
 });
